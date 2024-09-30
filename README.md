@@ -1,2 +1,2 @@
 # HARMONIA
-This repository hosts the source code for Harmonia, a social music platform developed by our team as part of our senior project at CTIS Bilkent University. The project integrates music streaming with social features to enhance music discovery and interaction.
+This repository hosts the source code for Harmonia, a social music platform developed by our team as part of our senior project at CTIS, Bilkent University. Harmonia is designed for users to critique, review, and share their music tastes with a community. The platform facilitates music discovery through user-generated content, allowing for deeper engagement with music and like-minded listeners.
